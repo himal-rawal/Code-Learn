@@ -1,0 +1,2 @@
+There is a strange counter. At the first second, it displays the number 3. Each second, the number displayed by decrements by 1 until it reaches 1. In next second, the timer resets to  2*initial no of prior cycle and continues counting down.
+Problem Link: https://www.hackerrank.com/challenges/strange-code/problem?isFullScreen=true
